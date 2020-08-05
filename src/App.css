@@ -1,0 +1,9 @@
+.App {
+  text-align: center;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: url("https://www.androidguys.com/wp-content/uploads/2013/03/notebook_wallpaper_by_luccaspaivasilva-d4ilz0b.jpg");
+  background-position: center center;
+}
